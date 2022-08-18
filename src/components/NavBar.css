@@ -1,0 +1,17 @@
+.navbar {
+  padding: 10px;
+  background-color: #eec3bb;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+}
+
+.navitem {
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.navitem:hover {
+  cursor: pointer;
+}
