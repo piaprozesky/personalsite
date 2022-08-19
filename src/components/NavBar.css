@@ -15,3 +15,8 @@
 .navitem:hover {
   cursor: pointer;
 }
+
+.navtext {
+  color: black !important;
+  text-decoration: none !important;
+}
