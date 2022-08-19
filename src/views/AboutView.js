@@ -14,7 +14,7 @@ function AboutView() {
           I explored coding independently throughout high school, as well as
           building/contributing to websites created with Wix, WordPress and
           Shopify. From then I knew that this was what I wanted to do so after
-          graduating from school I complete a Bootcamp.
+          graduating from school I completed a Bootcamp.
           <br />
           <br />
           During this Bootcamp, my love for coding grew along with my curiosity
