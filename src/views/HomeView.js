@@ -6,7 +6,7 @@ function HomeView() {
     <div id="home">
       <div className="homeview">
         <h1 className="heading">Pia Prozesky</h1>
-        <p>FULL STACK DEVELOPER</p>
+        <p className="text">FULL STACK DEVELOPER</p>
       </div>
     </div>
   );

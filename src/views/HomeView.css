@@ -6,4 +6,6 @@
 .homeview {
   background-color: #f6f6f6;
   padding: 100px;
+  padding-left: 250px;
+  padding-right: 250px;
 }

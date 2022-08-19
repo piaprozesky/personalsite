@@ -6,7 +6,7 @@ function AboutView() {
     <div id="about">
       <div className="aboutview">
         <h1>About Me</h1>
-        <p>
+        <p className="text">
           Full stack developer moving into the tech world after completing a
           Bootcamp at CodeOp.
           <br />
