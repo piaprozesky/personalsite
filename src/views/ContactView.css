@@ -13,7 +13,7 @@
   }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1000px) and (min-width: 800px) {
   .contactview {
     padding: 100px;
   }

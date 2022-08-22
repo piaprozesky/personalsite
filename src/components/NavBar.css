@@ -32,7 +32,7 @@
   }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1000px) and (min-width: 800px) {
   .navitem {
     display: inline-block;
     margin-left: 15px;

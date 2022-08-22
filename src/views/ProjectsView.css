@@ -17,7 +17,7 @@
   }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1000px) and (min-width: 800px) {
   .projectsview {
     padding: 100px;
   }
