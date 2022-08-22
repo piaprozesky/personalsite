@@ -19,5 +19,6 @@ h2 {
 @media screen and (max-width: 800px) {
   .text {
     font-size: small;
+    text-align: justify;
   }
 }
