@@ -8,3 +8,11 @@
 .project {
   padding-top: 10px;
 }
+
+@media screen and (max-width: 800px) {
+  .projectsview {
+    padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}

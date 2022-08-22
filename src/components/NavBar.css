@@ -20,3 +20,11 @@
   color: black !important;
   text-decoration: none !important;
 }
+
+@media screen and (max-width: 800px) {
+  .navitem {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}

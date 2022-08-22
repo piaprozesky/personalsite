@@ -15,3 +15,9 @@ h2 {
 .text {
   font-size: larger;
 }
+
+@media screen and (max-width: 800px) {
+  .text {
+    font-size: small;
+  }
+}
