@@ -18,9 +18,12 @@ function AboutView() {
           <br />
           <br />
           During this Bootcamp, my love for coding grew along with my curiosity
-          and my excitement to create. I worked on three full stack apps, the
-          first one, my MVP, I created from scratch. The purpose is to connect
-          companies looking for interns with interns.
+          and my excitement to create.
+          <br />
+          <br />
+          I worked on three full stack apps, the first one, my MVP, I created
+          from scratch. The purpose is to connect companies looking for interns
+          with people looking for internships.
           <br />
           <br />
           The second one was the feature extension that was built on top of a
@@ -29,11 +32,11 @@ function AboutView() {
           this feature.
           <br />
           <br />
-          The final project was the group project. Together we created an app
-          that helps big groups plan trips together. I focused on the chat and a
-          voting system that operated within the chat, editing profile
-          information, as well as the overall functionality and styling of the
-          app.
+          All the students in the Bootcamp worked as a team to create the final
+          project. Together we created an app that helps big groups plan trips
+          together. I focused on the chat and a voting system that operated
+          within the chat, editing profile information, as well as the overall
+          functionality and styling of the app.
           <br />
           <br />
           I’m looking to work in a team where I can contribute to the mission
