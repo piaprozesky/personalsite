@@ -22,3 +22,10 @@ h2 {
     text-align: justify;
   }
 }
+
+@media screen and (max-width: 1000px) {
+  .text {
+    font-size: medium;
+    text-align: justify;
+  }
+}

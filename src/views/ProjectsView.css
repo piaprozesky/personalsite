@@ -16,3 +16,9 @@
     padding-right: 50px;
   }
 }
+
+@media screen and (max-width: 1000px) {
+  .projectsview {
+    padding: 100px;
+  }
+}

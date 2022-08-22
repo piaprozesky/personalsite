@@ -31,3 +31,14 @@
     font-size: small;
   }
 }
+
+@media screen and (max-width: 1000px) {
+  .navitem {
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .navtext {
+    font-size: medium;
+  }
+}

@@ -22,3 +22,14 @@
     text-decoration: none;
   }
 }
+
+@media screen and (max-width: 1000px) {
+  .homeview {
+    padding: 100px;
+  }
+
+  .heading {
+    font-size: 400%;
+    text-decoration: none;
+  }
+}
